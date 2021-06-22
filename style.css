@@ -18,12 +18,20 @@ body {
   border-top: 5px solid #e7543c;
 }
 
+.border-top-mid {
+  border-top: 5px solid #52d0e0;
+}
+
 .primary-color {
   color: #7bc9cc;
 }
 
 .primary-color-sec {
   color:#e7543c;
+}
+
+.primary-color-thr {
+  color: #52d0e0;
 }
 
 .small-text {
