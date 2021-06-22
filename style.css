@@ -1,0 +1,35 @@
+
+body {
+  background-color: #ecf0f5;
+}
+.header-bg {
+  background-color: #3e5161;
+}
+
+.header-bg-btm {
+  background-color: #2b3943;
+}
+
+.border-top-left {
+  border-top: 5px solid #7bc9cc;
+}
+
+.border-top-right {
+  border-top: 5px solid #e7543c;
+}
+
+.primary-color {
+  color: #7bc9cc;
+}
+
+.primary-color-sec {
+  color:#e7543c;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+h5 {
+  margin-bottom: 0 !important;
+}
