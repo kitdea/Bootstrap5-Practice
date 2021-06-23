@@ -24,6 +24,10 @@ body {
   border-top: 6px solid #52d0e0;
 }
 
+.border-top-design {
+  border-top: 6px solid #dd519e;
+}
+
 .primary-color {
   color: #7bc9cc;
 }
@@ -34,6 +38,10 @@ body {
 
 .primary-color-thr {
   color: #52d0e0;
+}
+
+.primary-color-design {
+  color: #dd519e;
 }
 
 .small-text {
