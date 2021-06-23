@@ -1,5 +1,7 @@
 
 body {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
   background-color: #ecf0f5;
 }
 .header-bg {
@@ -11,15 +13,15 @@ body {
 }
 
 .border-top-left {
-  border-top: 5px solid #7bc9cc;
+  border-top: 6px solid #7bc9cc;
 }
 
 .border-top-right {
-  border-top: 5px solid #e7543c;
+  border-top: 6px solid #e7543c;
 }
 
 .border-top-mid {
-  border-top: 5px solid #52d0e0;
+  border-top: 6px solid #52d0e0;
 }
 
 .primary-color {
@@ -38,6 +40,15 @@ body {
   font-size: 12px;
 }
 
-h5 {
+ h5 {
+  font-size: 18px;
   margin-bottom: 0 !important;
 }
+
+p {
+  font-size: 14px !important;
+}
+
+ .bg-color__login {
+   background-color: #e2e2e2;
+ }
