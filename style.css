@@ -28,6 +28,14 @@ body {
   border-top: 6px solid #dd519e;
 }
 
+.border-top-travel {
+  border-top: 6px solid #8e72d1;
+}
+
+.border-top-home {
+  border-top: 6px solid #8cd723;
+}
+
 .primary-color {
   color: #7bc9cc;
 }
@@ -42,6 +50,14 @@ body {
 
 .primary-color-design {
   color: #dd519e;
+}
+
+.primary-color-travel {
+  color: #8e72d1;
+}
+
+.primary-color-home {
+  color: #8cd723;
 }
 
 .small-text {
