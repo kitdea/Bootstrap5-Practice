@@ -60,6 +60,10 @@ body {
   color: #8cd723;
 }
 
+.bg-color-home {
+  background-color: #8cd723;
+}
+
 .small-text {
   font-size: 12px;
 }
