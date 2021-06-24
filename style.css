@@ -68,6 +68,18 @@ body {
   background-color: #8cd723;
 }
 
+.bg-color-builder {
+  background-color: #f4285c;
+}
+
+.bg-color-social {
+  background-color: #ff5a02;
+}
+
+.bg-color-extra {
+  background-color: #3eed9a;
+}
+
 .small-text {
   font-size: 12px;
 }
