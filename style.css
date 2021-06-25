@@ -96,3 +96,12 @@ p {
  .bg-color__login {
    background-color: #e2e2e2;
  }
+
+ .play-button {
+   color: rgb(206, 206, 206) !important;
+   font-size: 4rem !important;
+   top: 22%;
+   left: 40%;
+ }
+
+ 

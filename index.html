@@ -694,9 +694,10 @@
         <div class="header-bg px-3 py-3">
           <h5 class="text-light fw-bold ">RECENT REVIEWS</h5>
         </div>
-         <div class="row align-items-center border-bottom mx-0 p-3">
-          <div class="col-12 p-0">
-            <iframe width="100%" height="auto" src="https://www.youtube.com/embed/pVE92TNDwUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <div class="row align-items-center border-bottom mx-0 p-3 position-relative">
+          <div class="col-12 p-0 d-flex align-items-center justify-content-center">
+           <img class="img-thumbnail" src="/img/mockup-video.jpg">
+           <i class="bi bi-play-circle position-absolute play-button"></i>
           </div>
           <div class="col-12">
             <p class="mb-auto fw-bold">Blogging for Fashion</p>
@@ -713,13 +714,13 @@
         
         <form class="p-3">
           <div class="mb-3">
-            <input type="email" class="form-control bg-color__login" placeholder="Username" aria-describedby="emailHelp">
+            <input type="email" class="form-control bg-color__login rounded-0" placeholder="Username" aria-describedby="emailHelp">
           </div>
           <div class="mb-3">
-            <input type="password" class="form-control bg-color__login" placeholder="Password">
+            <input id="input_password" type="password" class="form-control bg-color__login rounded-0" placeholder="Password">
           </div>
           <div class="d-flex align-items-center">
-            <button type="submit" class="btn bg-color__login">Submit</button>
+            <button type="submit" class="btn bg-color__login rounded-0">Submit</button>
             <p class="mb-0 mx-3">Lost my Password</p>
           </div>
         </form>
